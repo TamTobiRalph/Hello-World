@@ -1,1 +1,3 @@
-libary(tidyverse)
+
+library(tidyr)
+library(ggplot2)
